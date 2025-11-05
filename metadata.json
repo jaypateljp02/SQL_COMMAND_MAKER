@@ -1,0 +1,5 @@
+{
+  "name": "SQL Query Generator",
+  "description": "An AI-powered application that translates natural language into SQL queries, visualizes the results, and allows for iterative table modifications. Users can type requests in plain English, see the generated SQL, and view a visual representation of the database changes.",
+  "requestFramePermissions": []
+}
